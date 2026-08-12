@@ -23,8 +23,5 @@ int main() {
      else{
         cout<<"not found";
      }
-
-   
-
     return 0;
 }
